@@ -1,6 +1,7 @@
 # AINEQUAL: Stata module to compute measures of inequality
 
-## Abstract
+
+## Description
 ainequal computes a series of inequality measures of the variables in varlist. It is a revised and
 upgraded version of inequal7 and inequal published by Edward Whitehouse in STB-23.
 
@@ -16,26 +17,23 @@ and Lanza [2006], for the Gini, Theil-T and Theil-L.
 
 ## Suggested Citation
 [Joao Pedro Azevedo, 2006. "AINEQUAL: Stata module to compute measures of inequality," Statistical Software Components S456748, Boston College Department of Economics, revised 13 Apr 2007.](https://ideas.repec.org/c/boc/bocode/s456748.html)
-### Handle: RePEc:boc:bocode:s456748 
 
 ## Reference
 
-     Amiel, Y. and Cowell, F.A. (1999) Thinking about Inequality. Cambridge University Press. United
-          Kingdom.
+Amiel, Y. and Cowell, F.A. (1999) Thinking about Inequality. Cambridge University Press. United Kingdom.
 
-     Coulter Ph. (1989), Measuring Inequality -A Methodological Handbook-, Westview Press USA.
+Coulter Ph. (1989), Measuring Inequality -A Methodological Handbook-, Westview Press USA.
 
-     Cowell, F.A. (1995). Measuring Inequality (second edition). Prentice-Hall/Harvester-Wheatsheaf,
-          Hemel Hempstead.
+Cowell, F.A. (1995). Measuring Inequality (second edition). Prentice-Hall/Harvester-Wheatsheaf, Hemel Hempstead.
 
-     Hoffmann, R. (2001) Effect of the rise of a person's income on inequality. Brazlian Review of
-          Econometrics v.21, no.2, pp.237-262.
+Hoffmann, R. (2001) Effect of the rise of a person's income on inequality. Brazilian Review of Econometrics v.21, no.2, pp.237-262. [(link)](http://dx.doi.org/10.12660/bre.v21n22001.2751)
 
-     Lambert, P.J. and Lanza, G. (2006) The effect on inequalities of changing one or two incomes.
-          The Journal of Economic Inequality. 4:253-277.
+Lambert, P.J. and Lanza, G. (2006) The effect on inequalities of changing one or two incomes. The Journal of Economic Inequality. 4:253-277.
 
-### Note: 
+#### Handle: RePEc:boc:bocode:s456748 
+
+#### Note: 
 This module should be installed from within Stata by typing "ssc install ainequal". Windows users should not attempt to download these files with a web browser
 
-### Keywords
+#### Keywords
 inequality; Gini; Mehran; Piesch; Kakwani; Theil entropy; generalized entropy;
