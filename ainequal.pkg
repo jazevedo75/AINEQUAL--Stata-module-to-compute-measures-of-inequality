@@ -1,5 +1,5 @@
 v 6.0
-d 'AINEQUAL'
+d 'AINEQUAL': Stata module to compute measures of inequality
 d 
 d Distribution-Date: 10apr2007
 d License: MIT
