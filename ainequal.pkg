@@ -1,7 +1,7 @@
-v 0.0.0
-d 'AINEQUAL' 
+v 6.0
+d 'AINEQUAL'
 d 
-d Distribution-Date: 
+d Distribution-Date: 10apr2007
 d License: MIT
 d 
 F src/a/ainequal.ado
