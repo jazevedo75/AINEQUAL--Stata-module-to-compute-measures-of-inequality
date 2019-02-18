@@ -1,4 +1,4 @@
-# AINEQUAL: Stata module to compute measures of inequality
+﻿# AINEQUAL: Stata module to compute measures of inequality
 
 
 ## Description
@@ -37,6 +37,7 @@ This module should be installed from within Stata by typing "ssc install ainequa
 
 #### Keywords
 inequality; Gini; Mehran; Piesch; Kakwani; Theil entropy; generalized entropy;
+
 ## Author: 
 
   **João Pedro Azevedo**  
